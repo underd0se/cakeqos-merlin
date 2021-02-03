@@ -29,7 +29,7 @@ readonly SCRIPT_NAME_FANCY="CakeQOS-Merlin"
 readonly SCRIPT_BRANCH="master"
 readonly SCRIPT_DIR="/jffs/addons/${SCRIPT_NAME}"
 readonly SCRIPT_CFG="${SCRIPT_DIR}/${SCRIPT_NAME}.cfg"
-readonly SCRIPT_REMOTEDIR="https://raw.githubusercontent.com/ttgapers/cakeqos-merlin/${SCRIPT_BRANCH}"
+readonly SCRIPT_REMOTEDIR="https://raw.githubusercontent.com/underd0se/cakeqos-merlin/${SCRIPT_BRANCH}"
 
 readonly CRIT="\\e[41m"
 readonly ERR="\\e[31m"
