@@ -1,3 +1,5 @@
+Since (Merlin is baking cake into Merlin)[https://github.com/RMerl/asuswrt-merlin.ng/commit/4cb578387ea5d8b3863adbd914daf43c51bbe9d8], this fork will probably become redundant soon.  
+
 This is a fork of [CakeQos-Merlin](https://github.com/ttgapers/cakeqos-merlin) for testing purposes on RT-AX58U/AX3000. 
 
 Install 
